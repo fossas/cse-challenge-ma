@@ -7,7 +7,7 @@ You meet with the StepToes AI engineers and are tasked with the following items:
 ### Level I
 
 - Prepare a “What is FOSSA?” presentation.
-  - Explain FOSSA and how it will engage as part of the due diligence process
+  - Explain FOSSA and how it will engage as part of the due diligence process.
 - Sign up for FOSSA.
 - Review the FOSSA CLI documentation.
 
@@ -25,6 +25,6 @@ You meet with the StepToes AI engineers and are tasked with the following items:
 ### Level III
 
 - Review the results and determine any compliance risks.
-- Generate compliance reports from FOSSA, and prepare an explanatory presentation for both StepToes AI and FlipFlop (separate presentations)
+- Generate compliance reports from FOSSA, and prepare an explanatory presentation for both StepToes AI and FlipFlop (separate presentations).
 
-Please complete as many items as you can, and have fun while you explore FOSSA's capabilities! If you have any questions please reach out to chelsea@fossa.com
+Please complete as many items as you can, and have fun while you explore FOSSA's capabilities! If you have any questions please reach out to chelsea@fossa.com.
