@@ -19,12 +19,13 @@ You meet with the StepToes AI engineers and are tasked with the following items:
 
 ### Level II
 
-- Based on the imaginary kickoff call above, FOSSA understands that StepToes AI has two major projects that need to be scanned. They have distributed and non-distributed products, which are present in this exercise. Help StepToes integrate their projects by using the FOSSA CLI.
+- Based on the imaginary kickoff call above, FOSSA understands that StepToes AI has two major projects that need to be scanned. They have distributed and non-distributed products, which are present in this exercise. Help StepToes scan their projects by using the FOSSA CLI.
   - For the `analyze` command, use the `--project` flag for each directory in this repository.
 
 ### Level III
 
 - Review the results and determine any compliance risks.
 - Generate compliance reports from FOSSA, and prepare an explanatory presentation for both StepToes AI and FlipFlop (separate presentations).
+- Based on your learnings from this challenge, create collateral (written doc, slide deck presentation or video - your choice!) that you can send to a client, so that they can self-serve during an M&A!
 
 Please complete as many items as you can, and have fun while you explore FOSSA's capabilities! If you have any questions please reach out to chelsea@fossa.com.
