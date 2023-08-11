@@ -28,4 +28,4 @@ You meet with the StepToes AI engineers and are tasked with the following items:
 - Generate compliance reports from FOSSA, and prepare an explanatory presentation for both StepToes AI and FlipFlop (separate presentations).
 - Based on your learnings from this challenge, create collateral (written doc, slide deck presentation or video - your choice!) that you can send to a client, so that they can self-serve during an M&A!
 
-Please complete as many items as you can, and have fun while you explore FOSSA's capabilities! If you have any questions please reach out to chelsea@fossa.com.
+Please complete as many items as you can, and have fun while you explore FOSSA's capabilities! If you have any questions please reach out to chelsea@fossa.com and deepak@fossa.com.
